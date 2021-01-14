@@ -2305,306 +2305,306 @@ Will you accept it? For my Dad atleast?
 - This is'nt the time to decide, Kunji. I should leave now.
 
 534
-02:14:41,527 --> 02:14:43,712
+02:14:04,508 --> 02:14:06,807
 Live long.
 
 535
-02:14:52,864 --> 02:15:00,956
+02:14:16,438 --> 02:14:24,952
 I requested the blacksmith to forge it well, using whatever material was required
 
 536
-02:15:00,956 --> 02:15:07,234
+02:14:24,952 --> 02:14:31,558
 They a good blade should even cut an elephants tusks.
 
 537
-02:15:18,953 --> 02:15:23,401
+02:14:43,890 --> 02:14:48,570
 (Prompting) Defend on backfoot, jump and turn..
 
 538
-02:15:26,298 --> 02:15:30,662
+02:14:51,618 --> 02:14:56,210
 Swing backfoot and turn back to face enemy
 
 539
-02:15:33,425 --> 02:15:37,786
+02:14:59,117 --> 02:15:03,655
 Swing to the left, then right, jump and slash down
 
 540
-02:16:21,379 --> 02:16:26,655
+02:15:49,011 --> 02:15:54,408
 The Aringodan cheated his move, thats why Chandu stopped his stab.
 
 541
-02:16:27,442 --> 02:16:36,042
+02:15:55,212 --> 02:16:01,357
 Opponent. I saw that you cheated.
 - When you see unexpected moves, dont call it cheating.
 
 542
-02:16:36,042 --> 02:16:42,093
+02:16:01,357 --> 02:16:08,672
 How untrained you are.
 -Lets see how well I trained.
 
 543
-02:16:52,589 --> 02:16:57,819
+02:16:21,361 --> 02:16:26,773
 The first 2 rounds were neck-to-neck. Now this tiebreaker round will decide.
 
 544
-02:17:30,809 --> 02:17:34,868
+02:17:00,906 --> 02:17:05,174
 Swing and slash. Swing and sidestep.
 
 545
-02:18:53,035 --> 02:18:57,926
+02:18:27,363 --> 02:18:28,677
 Give me the replacement sword, Chandu.
 - I need time to get the weapon.
 
 546
-02:19:06,041 --> 02:19:09,875
+02:18:30,858 --> 02:18:31,888
 Aringodan, stop. Wait till I get the replacement sword. Its the rule.
 
 547
-02:19:44,124 --> 02:19:48,707
+02:18:41,091 --> 02:18:48,546
 Stop, Aringodan. Wait until the replacement arrives.
 
 548
-02:20:51,257 --> 02:20:57,434
+02:20:30,299 --> 02:20:34,855
 Unikonar, you may claim your land. Puthooran Aromal has won the battle.
 
 549
-02:20:58,272 --> 02:21:04,170
+02:20:35,473 --> 02:20:39,824
 Those who wish to see Aringodan's dead body, come onto the arena.
 
 550
-02:22:19,723 --> 02:22:23,599
+02:21:35,550 --> 02:21:39,590
 The cut..
 - Is not very deep. It's okay.
 
 551
-02:22:23,599 --> 02:22:33,028
+02:21:39,590 --> 02:21:49,415
 The blacksmith cheated us. But the battle gods were on our side. What treachery !
 
 552
-02:22:33,479 --> 02:22:38,072
+02:21:49,884 --> 02:21:54,670
 Was it the blacksmith who betrayed, or you, cousin?
 
 553
-02:22:44,961 --> 02:22:50,911
+02:22:01,849 --> 02:22:08,050
 Tell the truth.
 - Aromal, I wanted you to win this, even more than you did.
 
 554
-02:22:50,911 --> 02:22:53,308
+02:22:08,050 --> 02:22:10,548
 I'd always told them you would betray, Chandu.
 
 555
-02:22:59,372 --> 02:23:04,620
+02:22:16,867 --> 02:22:22,336
 If they ask me why I killed my assistant, this broken sword will give them an answer.
 
 556
-02:23:04,919 --> 02:23:09,439
+02:22:22,647 --> 02:22:27,359
 Stop. If you want to fight me, we shall fix a venue and time, but later.
 
 557
-02:23:09,439 --> 02:23:15,208
+02:22:27,359 --> 02:22:33,370
 If I can defeat Aringodan with half a sword, a quartersword will do for you.
 
 558
-02:23:58,211 --> 02:23:59,646
+02:23:18,182 --> 02:23:19,748
 Aromal
 
 559
-02:24:02,927 --> 02:24:07,434
+02:23:23,093 --> 02:23:27,788
 Lord, Chandu has betrayed me.
 
 560
-02:25:10,623 --> 02:25:13,610
+02:24:33,601 --> 02:24:36,711
 Please spare me.
 
 561
-02:25:14,895 --> 02:25:20,218
+02:24:38,049 --> 02:24:43,594
 Who bribed you to botch up the sword by replacing the nail. Tell me.
 
 562
-02:25:23,256 --> 02:25:25,244
+02:24:46,758 --> 02:24:48,829
 How much did the Aringodan bribe?
 
 563
-02:25:25,244 --> 02:25:30,256
+02:24:48,829 --> 02:24:54,049
 Even Aringodan does'nt know of this. We were asked to keep mum about it.
 
 564
-02:25:30,256 --> 02:25:35,045
+02:24:54,049 --> 02:24:59,036
 Who asked you to do this?
 - The Aringodan's daughter.
 
 565
-02:25:44,103 --> 02:25:51,151
+02:25:08,470 --> 02:25:15,811
 When I heard who the opponent was, I hoped the replacement sword would be good enough.
 
 566
-02:26:09,250 --> 02:26:11,726
+02:25:34,661 --> 02:25:37,240
 Where is that guy, Chandu?
 - He has not come here.
 
 567
-02:26:11,726 --> 02:26:13,674
+02:25:37,240 --> 02:25:39,269
 Close the gates.
 
 568
-02:26:24,162 --> 02:26:27,139
+02:25:50,193 --> 02:25:53,293
 Move away. Where is she?
 - You shall not pass.
 
 569
-02:26:27,245 --> 02:26:31,873
+02:25:53,404 --> 02:25:58,223
 Call her out, the traitor who bribed the smith to mess up the sword.
 
 570
-02:26:32,267 --> 02:26:36,760
+02:25:58,634 --> 02:26:03,314
 Aromal is the one who cheated. And you stood watching.
 
 571
-02:26:36,760 --> 02:26:40,955
+02:26:03,314 --> 02:26:07,683
 How Puthooran it is to throw a halfsword when a battle is paused.
 
 572
-02:29:12,168 --> 02:29:13,298
+02:28:45,174 --> 02:28:46,351
 Oh God
 
 573
-02:29:17,634 --> 02:29:19,767
+02:28:50,867 --> 02:28:53,088
 Where is she?
 - Please dont
 
 574
-02:29:27,462 --> 02:29:30,887
+02:29:01,103 --> 02:29:04,670
 Kunji. Open the door.
 
 575
-02:31:19,920 --> 02:31:22,558
+02:30:58,230 --> 02:31:00,034
 Archa, what happened is
 
 576
-02:31:22,558 --> 02:31:26,786
+02:31:03,413 --> 02:31:06,336
 I can guess what happened, from your face.
 
 577
-02:31:28,071 --> 02:31:30,309
+02:31:07,225 --> 02:31:09,531
 Atleast you must know the truth, Archa.
 
 578
-02:31:30,309 --> 02:31:38,890
+02:31:09,531 --> 02:31:18,374
 You betrayed my bro, as well as me, who you were engaged to.
 
 579
-02:31:48,734 --> 02:31:59,250
+02:31:28,516 --> 02:31:39,353
 If my child is a boy, my brother asked to name it after him. I hope it is a boy.
 
 580
-02:31:59,250 --> 02:32:04,924
+02:31:39,353 --> 02:31:43,001
 Archa, listen to me
 - No. I dont want to listen or see you anymore
 
 581
-02:32:08,963 --> 02:32:17,604
+02:31:49,111 --> 02:31:58,234
 Traitor Chandu. My son will come visit you one day. To avenge his uncle's death.
 
 582
-02:32:21,384 --> 02:32:28,133
+02:32:02,226 --> 02:32:09,351
 I promise. On the battle gods, on my dead brother.
 
 583
-02:32:58,521 --> 02:33:01,487
+02:32:41,435 --> 02:32:44,529
 Aromal's son and nephew
 
 584
-02:33:04,528 --> 02:33:07,363
+02:32:47,701 --> 02:32:50,658
 I am scared.
 
 585
-02:33:35,013 --> 02:33:38,769
+02:33:19,501 --> 02:33:23,420
 Kuttimani. Light the lamp in the battle room.
 
 586
-02:36:25,362 --> 02:36:28,815
+02:36:17,202 --> 02:36:20,804
 Kuttimani, you may leave
 
 587
-02:36:37,364 --> 02:36:43,798
+02:36:29,722 --> 02:36:36,433
 The fight isnt over yet, warrior. Grandfather has taught us more moves.
 
 588
-02:36:45,458 --> 02:36:52,684
+02:36:38,165 --> 02:36:41,825
 You call this battle? I humored a game with you immature kids, and you call it battle?
 
 589
-02:36:52,684 --> 02:36:59,044
+02:36:45,743 --> 02:36:52,309
 I simply dodged and shielded myself from Your cuts, without a fight.Are you not trained enough to realize, kids?
 
 590
-02:36:59,600 --> 02:37:08,635
+02:36:52,882 --> 02:36:58,091
 What other move? The old Puthooran one where you 'fool an enemy into feeling secure, and then trick him'?
 
 591
-02:37:08,635 --> 02:37:15,294
+02:37:02,761 --> 02:37:04,386
 Or the new trick from the Kuruppans, where you fling sand into a defending fighter's eyes ?
 
 592
-02:37:15,323 --> 02:37:18,487
+02:37:08,926 --> 02:37:09,459
 Take up Your weapon
 
 593
-02:37:21,634 --> 02:37:26,076
+02:37:14,831 --> 02:37:15,612
 You cannot defeat Chandu
 
 594
-02:37:27,064 --> 02:37:32,144
+02:37:21,400 --> 02:37:26,570
 In life, I've been defeated. Many times. By many people.
 
 595
-02:37:36,554 --> 02:37:40,110
+02:37:31,057 --> 02:37:32,386
 My dad first defeated me, when he died at the Malayan's hands.
 
 596
-02:37:40,110 --> 02:37:43,982
+02:37:35,707 --> 02:37:36,118
 Then my guru, who feared to show me impartial love.
 
 597
-02:37:44,212 --> 02:37:55,329
+02:37:39,094 --> 02:37:52,828
 The girl I loved, as she traded off my love for another's gold. Then finally, my friend, who didnt believe me.
 
 598
-02:37:57,296 --> 02:38:01,628
+02:37:55,257 --> 02:37:56,878
 Still Chandu lives on, waiting to be defeated again.
 
 599
-02:38:02,194 --> 02:38:06,913
+02:37:57,090 --> 02:38:02,368
 Return
 - Aromal's son and nephew didnt come to return defeated
 
 600
-02:38:06,913 --> 02:38:14,452
+02:38:02,368 --> 02:38:10,803
 There is no man alive who can beat traitor Chandu. Not by skill, not by strength. No one. You may return.
 
 601
-02:38:14,596 --> 02:38:22,965
+02:38:10,964 --> 02:38:33,765
 Kill me if you will. UnniArcha's son has come prepared to die honorably in battle if need be.
 
 602
-02:38:23,790 --> 02:38:26,626
+02:38:20,679 --> 02:38:27,925
 Take up your weapon
 
 603
-02:39:23,728 --> 02:39:33,704
+02:39:22,934 --> 02:39:32,784
 You must not fail, children. Here ends the story of the traitor Chandu.
 
 604
-02:39:35,594 --> 02:39:39,196
+02:39:34,650 --> 02:39:35,898
 Here begins the legend of Aromal Unni who avenged the honor of Puthooran house.
 
 605
-02:40:11,046 --> 02:40:14,896
+02:39:46,931 --> 02:39:56,591
 Place my head at your mothers feet, and bow to her. Gather gifts and compliments from the ruler.
 
 606
-02:40:15,984 --> 02:40:23,693
+02:39:59,321 --> 02:40:18,664
 Let them cheer Your name out loud. After all, child, you could have been my son. Let them cheer.
 
 607
